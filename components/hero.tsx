@@ -44,7 +44,7 @@ function DashboardMockup() {
             <span className="h-2 w-2 rounded-full bg-white/20" />
             <span className="h-2 w-2 rounded-full bg-white/20" />
             <span className="h-2 w-2 rounded-full bg-white/20" />
-            <span className="ml-3 text-[9px] text-muted-foreground">vanzo.systems / dashboard</span>
+            <span className="ml-3 text-[9px] text-muted-foreground">Demo Preview / dashboard</span>
           </div>
           {/* Dashboard body */}
           <div className="grid grid-cols-3 gap-2 p-3">

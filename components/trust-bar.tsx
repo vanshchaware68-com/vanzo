@@ -48,7 +48,7 @@ export function TrustBar() {
           viewport={{ once: true }}
           className="mb-12 text-center text-sm uppercase tracking-[0.2em] text-muted-foreground"
         >
-          Businesses Trusting Modern Digital Systems
+          Built On Modern, Reliable Digital Systems
         </motion.p>
 
         <div className="grid grid-cols-2 gap-8 md:grid-cols-4">

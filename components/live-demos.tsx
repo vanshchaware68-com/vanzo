@@ -9,24 +9,31 @@ const demos = [
     title: 'Gym Website',
     desc: 'Membership funnels, class booking, and AI lead follow-up built in.',
     tag: 'Fitness',
+    demoUrl: '/demos/devansh-fitness.html',
   },
   {
     icon: UtensilsCrossed,
     title: 'Restaurant Website',
     desc: 'Table reservations, menu showcase, and WhatsApp ordering system.',
     tag: 'Hospitality',
+    // TODO: replace with the real live restaurant demo URL
+    demoUrl: '#cta',
   },
   {
     icon: Stethoscope,
     title: 'Clinic Website',
     desc: 'Appointment automation, patient reminders, and instant answers.',
     tag: 'Healthcare',
+    // TODO: replace with the real live clinic demo URL
+    demoUrl: '#cta',
   },
   {
     icon: GraduationCap,
     title: 'Coaching Website',
     desc: 'Course landing pages, enrollment funnels, and student CRM.',
     tag: 'Education',
+    // TODO: replace with the real live coaching demo URL
+    demoUrl: '#cta',
   },
 ]
 
@@ -73,7 +80,9 @@ export function LiveDemos() {
             <p className="mb-8 text-sm leading-relaxed text-muted-foreground">{demo.desc}</p>
             <div className="flex flex-wrap gap-3">
               <a
-                href="#cta"
+                href={demo.demoUrl}
+                target={demo.demoUrl !== '#cta' ? '_blank' : undefined}
+                rel={demo.demoUrl !== '#cta' ? 'noopener noreferrer' : undefined}
                 className="inline-flex items-center gap-1.5 rounded-full bg-primary px-4 py-2 text-xs font-medium text-primary-foreground transition-all hover:shadow-[0_0_20px_rgba(79,124,255,0.4)]"
               >
                 <ExternalLink size={13} />

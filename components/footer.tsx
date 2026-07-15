@@ -44,7 +44,7 @@ export function Footer() {
             <InstagramIcon size={18} />
           </a>
           <a
-            href="https://wa.me/910000000000"
+            href="https://wa.me/919926628822"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="WhatsApp"
@@ -53,7 +53,7 @@ export function Footer() {
             <MessageCircle size={18} />
           </a>
           <a
-            href="mailto:hello@vanzo.systems"
+            href="mailto:vanshchaware68@gmail.com"
             aria-label="Email"
             className="text-muted-foreground transition-colors hover:text-primary"
           >

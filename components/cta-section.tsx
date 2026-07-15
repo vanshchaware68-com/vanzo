@@ -38,14 +38,14 @@ export function CtaSection() {
           className="mt-10 flex flex-col justify-center gap-4 sm:flex-row"
         >
           <a
-            href="mailto:hello@vanzo.systems"
+            href="mailto:vanshchaware68@gmail.com"
             className="group inline-flex items-center justify-center gap-2 rounded-full bg-primary px-8 py-4 text-sm font-semibold text-primary-foreground transition-all hover:shadow-[0_0_40px_rgba(79,124,255,0.5)]"
           >
             Book Free Consultation
             <ArrowRight size={16} className="transition-transform group-hover:translate-x-1" />
           </a>
           <a
-            href="https://wa.me/910000000000"
+            href="https://wa.me/919926628822"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 rounded-full border border-border bg-card px-8 py-4 text-sm font-semibold text-foreground transition-colors hover:border-primary/50"

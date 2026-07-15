@@ -21,20 +21,21 @@ export function AiConsultant() {
           <div>
             <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-primary/30 bg-primary/10 px-4 py-1.5 text-xs font-medium text-primary">
               <Sparkles size={14} />
-              VANZO AI
+              VANZO AI &middot; Coming Soon
             </div>
             <h2 className="text-balance text-3xl font-bold tracking-tight text-foreground md:text-4xl">
               Meet Your AI Consultant
             </h2>
             <p className="mt-4 max-w-md text-pretty leading-relaxed text-muted-foreground">
-              Tell VANZO AI about your business and get an instant blueprint of
-              the systems that will grow it.
+              Soon you'll be able to tell VANZO AI about your business and get an
+              instant blueprint of the systems that will grow it. For now, book a
+              free consultation and we'll build that blueprint with you.
             </p>
             <a
               href="#cta"
               className="group mt-8 inline-flex items-center gap-2 rounded-full bg-primary px-7 py-3.5 text-sm font-semibold text-primary-foreground transition-all hover:shadow-[0_0_30px_rgba(79,124,255,0.5)]"
             >
-              Start Conversation
+              Book Free Consultation
               <ArrowRight size={16} className="transition-transform group-hover:translate-x-1" />
             </a>
           </div>
