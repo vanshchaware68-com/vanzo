@@ -53,7 +53,7 @@ export function Footer() {
             <MessageCircle size={18} />
           </a>
           <a
-            href="mailto:vanshchaware68@gmail.com"
+            href="mailto:vanzo.official@gmail.com"
             aria-label="Email"
             className="text-muted-foreground transition-colors hover:text-primary"
           >

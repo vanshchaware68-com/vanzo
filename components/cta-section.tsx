@@ -38,7 +38,7 @@ export function CtaSection() {
           className="mt-10 flex flex-col justify-center gap-4 sm:flex-row"
         >
           <a
-            href="mailto:vanshchaware68@gmail.com"
+            href="mailto:vanzo.official@gmail.com"
             className="group inline-flex items-center justify-center gap-2 rounded-full bg-primary px-8 py-4 text-sm font-semibold text-primary-foreground transition-all hover:shadow-[0_0_40px_rgba(79,124,255,0.5)]"
           >
             Book Free Consultation
