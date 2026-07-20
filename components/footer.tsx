@@ -44,7 +44,7 @@ export function Footer() {
             <InstagramIcon size={18} />
           </a>
           <a
-            href="https://wa.me/919926628822"
+            href="https://wa.me/919302070340"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="WhatsApp"

@@ -45,7 +45,7 @@ export function CtaSection() {
             <ArrowRight size={16} className="transition-transform group-hover:translate-x-1" />
           </a>
           <a
-            href="https://wa.me/919926628822"
+            href="https://wa.me/919302070340"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 rounded-full border border-border bg-card px-8 py-4 text-sm font-semibold text-foreground transition-colors hover:border-primary/50"
